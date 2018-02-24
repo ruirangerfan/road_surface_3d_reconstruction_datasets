@@ -1,1 +1,13 @@
 # road_surface_3d_reconstruction_datasets
+
+Owner: Rui Fan (Ranger).
+
+Overview: The datasets are used for binocular stereo vision-based road surface 3D reconstruction and pothole detection. Kindly refer to our paper: "Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation", published on IEEE Transactions on Image Processing, for more details.
+
+Project: More details on the project are provided at: http://www.ruirangerfan.com
+
+Datasets: In this repository, there are three datasets (dataset 1, dataset 2, dataset 3). dataset 1 and dataset 2 mainly aim at the on-road 3D recontruction, while dataset 3 is used to evaluate the accuracy of the reconstruction results. Each dataset includes uncalibrated left and right images and calibrated left and right images. The calibrated images are used for disparity map estimation, while the uncalibrated images and calibration parameters are used to reconstruct the 3D scenary in Matlab.
+
+Videos: The videos are also available at: https://www.youtube.com/channel/UC1DgZTYD19jaLFzgtNMznDg/playlists
+
+Contact: ranger_fan@outlook.com
