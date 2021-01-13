@@ -8,6 +8,6 @@ Project: More details on the project are provided at: http://www.ruirangerfan.co
 
 Datasets: In this repository, there are three datasets (dataset 1, dataset 2, dataset 3). dataset 1 and dataset 2 mainly aim at the on-road 3D recontruction, while dataset 3 is used to evaluate the accuracy of the reconstruction results. Each dataset includes uncalibrated left and right images and calibrated left and right images. The calibrated images are used for disparity map estimation, while the uncalibrated images and calibration parameters are used to reconstruct the 3D scenary.
 
-Videos: The videos are also available at: https://www.youtube.com/channel/UC1DgZTYD19jaLFzgtNMznDg/playlists
+Demo video: https://www.youtube.com/watch?v=pypPI7fsctg&t=1s
 
-Contact: ranger_fan@outlook.com 
+Contact: rui.fan@ieee.org 
