@@ -1,6 +1,6 @@
 # Road Surface 3D Reconstruction Datasets
 
-Owner: Rui Fan (Ranger).
+This dataset was created by [Rui (Ranger) Fan](https://www.ruirangerfan.com/).
 
 Overview: The datasets are used for stereo vision-based road surface 3D reconstruction and pothole detection. Kindly refer to our paper: "Road Surface 3D Reconstruction Based on Dense Subpixel Disparity Map Estimation", published on IEEE Transactions on Image Processing, for more details.
 
